@@ -25,4 +25,8 @@ The code is included in this repo.<br><br>
 
 ![image](https://user-images.githubusercontent.com/98131995/234587307-9393e95d-b93b-4a64-857f-cd6240551469.png)<br><br>
 
-### C4 - Distance transform from goal configuration:<br>
+### C4 - Path from start to goal:<br>
+
+![image](https://user-images.githubusercontent.com/98131995/234588399-7d2e39be-88b2-4e4b-9de6-0dd4c0608c2c.png)<br><br>
+
+### C5 - Distance transform from goal configuration:<br>
