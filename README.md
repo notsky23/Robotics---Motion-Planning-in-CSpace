@@ -23,7 +23,7 @@ The code is included in this repo.<br><br>
 
 ### C3 - Distance transform from goal configuration:<br>
 
-![image](https://user-images.githubusercontent.com/98131995/234587307-9393e95d-b93b-4a64-857f-cd6240551469.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/234589129-22145b60-43a0-43a8-bc52-8ef406792544.png)<br><br>
 
 ### C4 - Path from start to goal:<br>
 
