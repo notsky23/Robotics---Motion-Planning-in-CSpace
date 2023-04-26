@@ -1,3 +1,3 @@
 # Robotics---Motion-Planning-in-CSpace
 
-HW Guide: https://inst.eecs.berkeley.edu/~cs188/sp22/projects/.<br><br>
+HW Guide: https://github.com/notsky23/Robotics---Motion-Planning-in-CSpace/blob/master/hw2-1.pdf.<br><br>
