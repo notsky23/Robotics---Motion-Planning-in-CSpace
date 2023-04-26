@@ -37,3 +37,6 @@ The code is included in this repo.<br><br>
 
 ![image](https://user-images.githubusercontent.com/98131995/234594349-4e6c8e00-edda-471e-8971-3ef63c9fb1bd.png)<br><br>
 
+### C7 - Padding:<br>
+
+![Path Planning w padding](https://user-images.githubusercontent.com/98131995/234596275-a25cc71a-8c61-46d7-919a-6f319875d336.gif)<br><br>
