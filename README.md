@@ -14,4 +14,4 @@ The code is included in this repo.<br><br>
 
 ### C1 - Plotting of robot in workspace<br>
 
-<img src="https://user-images.githubusercontent.com/98131995/234583834-30332eea-6b71-422d-9d3a-445c00a01eeb.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234583907-bf13c726-69a1-457f-b1a9-5933e5832ee0.png" width=50% height=50%><br><br>
+![image](https://user-images.githubusercontent.com/98131995/234584486-8d230dbf-3554-4946-9809-2d75c457fedb.png)
