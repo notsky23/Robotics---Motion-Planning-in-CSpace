@@ -7,9 +7,7 @@ HW 2: Motion Planning in CSpace
 
 Please remember the following policies:
 
-• Submissions should be made electronically via the Canvas. Please ensure that your solutions for both the
-
-written and/or programming parts are present and zipped into a single ﬁle.
+• Submissions should be made electronically via the Canvas. Please ensure that your solutions for both the written and/or programming parts are present and zipped into a single ﬁle.
 
 • Solutions may be handwritten or typeset. For the former, please ensure handwriting is legible.
 
