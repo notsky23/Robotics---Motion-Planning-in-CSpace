@@ -29,4 +29,11 @@ The code is included in this repo.<br><br>
 
 ![image](https://user-images.githubusercontent.com/98131995/234588399-7d2e39be-88b2-4e4b-9de6-0dd4c0608c2c.png)<br><br>
 
-### C5 - Distance transform from goal configuration:<br>
+### C5 - Path planning:<br>
+
+![Path Planning](https://user-images.githubusercontent.com/98131995/234593860-f530e2b2-f3fc-49f7-9533-6068ce352b9c.gif)<br><br>
+
+### C6 - Collisions along the path:<br>
+
+![image](https://user-images.githubusercontent.com/98131995/234594349-4e6c8e00-edda-471e-8971-3ef63c9fb1bd.png)<br><br>
+
