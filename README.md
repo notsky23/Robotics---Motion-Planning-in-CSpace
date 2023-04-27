@@ -21,7 +21,9 @@ The code is included in this repo.<br><br>
 ### C2 - Converting workspace into configuration space:<br>
 
 <img src="https://user-images.githubusercontent.com/98131995/234779187-b9922a2f-9fdb-474f-8d48-522ec40decae.png" width=50% height=50%><br>
+<img src="https://user-images.githubusercontent.com/98131995/234787128-9978b746-38de-4e92-9c23-63f0663e7971.png" width=50% height=50%><br>
 <img src="https://user-images.githubusercontent.com/98131995/234779799-28a3a0ff-6781-4974-9c14-5e97d9e43e37.png" width=50% height=50%><br><br>
+
 ![image](https://user-images.githubusercontent.com/98131995/234585944-14f4303f-a3bc-4416-a54a-5e1bcd3a7769.png)<br>
 ![image](https://user-images.githubusercontent.com/98131995/234585367-5a0a8a77-d30c-4e58-b1f2-ad4c24443ca0.png)<br><br>
 
