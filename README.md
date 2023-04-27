@@ -30,7 +30,7 @@ The code is included in this repo.<br><br>
 ### C3 - Distance transform from goal configuration:<br>
 
 <img src="https://user-images.githubusercontent.com/98131995/234785915-5dd59a0c-7c04-430a-9b11-776484d897b4.png" width=50% height=50%><br>
-<img src="https://user-images.githubusercontent.com/98131995/234786153-3d875717-3ae6-4a46-aa24-8d24a740e9bc.png" width=50% height=50%><br>
+<img src="https://user-images.githubusercontent.com/98131995/234786153-3d875717-3ae6-4a46-aa24-8d24a740e9bc.png" width=50% height=50%><br><br>
 ![image](https://user-images.githubusercontent.com/98131995/234589129-22145b60-43a0-43a8-bc52-8ef406792544.png)<br><br>
 
 ### C4 - Path from start to goal:<br>
