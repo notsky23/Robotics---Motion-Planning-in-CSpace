@@ -8,7 +8,8 @@ This module is a practice on robotic motion planning in workspace and configurat
 
 ## Workspace vs Configuration space<br>
 
-<img src="https://user-images.githubusercontent.com/98131995/234779187-b9922a2f-9fdb-474f-8d48-522ec40decae.png" width=50% height=50%><br><br>
+<img src="https://user-images.githubusercontent.com/98131995/234779187-b9922a2f-9fdb-474f-8d48-522ec40decae.png" width=50% height=50%><br>
+<img src="https://user-images.githubusercontent.com/98131995/234779799-28a3a0ff-6781-4974-9c14-5e97d9e43e37.png" width=50% height=50%><br><br><br>
 
 ## Results:<br>
 
