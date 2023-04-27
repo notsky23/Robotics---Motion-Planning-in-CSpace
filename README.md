@@ -40,6 +40,7 @@ The code is included in this repo.<br><br>
 
 ### C5 - Path planning:<br>
 
+<img src="https://user-images.githubusercontent.com/98131995/234797908-af43c721-145c-4876-89ba-babcf26c9150.png" width=50% height=50%><br><br>
 ![Path Planning](https://user-images.githubusercontent.com/98131995/234593860-f530e2b2-f3fc-49f7-9533-6068ce352b9c.gif)<br><br>
 
 ### C6 - Collisions along the path:<br>
