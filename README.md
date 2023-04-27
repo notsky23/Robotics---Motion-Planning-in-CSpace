@@ -45,6 +45,7 @@ The code is included in this repo.<br><br>
 
 ### C6 - Collisions along the path:<br>
 
+<img src="https://user-images.githubusercontent.com/98131995/234799485-a9914152-3985-48c1-8599-e21a1697e669.png" width=50% height=50%><br><br>
 ![image](https://user-images.githubusercontent.com/98131995/234594349-4e6c8e00-edda-471e-8971-3ef63c9fb1bd.png)<br><br>
 
 ### C7 - Path planning with padding:<br>
