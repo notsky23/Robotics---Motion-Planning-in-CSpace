@@ -4,7 +4,7 @@ HW Guide: https://github.com/notsky23/Robotics---Motion-Planning-in-CSpace/blob/
 
 ## What is this practice about?<br>
 
-This module is a practice on robotic motion planning in CSpace using MATLAB.<br>
+This module is a practice on robotic motion planning in workspace and configuration-space using MATLAB.<br>
 
 ## Results:<br>
 
