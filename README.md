@@ -9,7 +9,6 @@ This module is a practice on robotic motion planning in workspace and configurat
 ## Workspace vs Configuration space<br>
 
 <img src="https://user-images.githubusercontent.com/98131995/234779187-b9922a2f-9fdb-474f-8d48-522ec40decae.png" width=75% height=75%><br>
-<img src="https://user-images.githubusercontent.com/98131995/234784327-7424720e-ca91-4de8-874d-4e3c62bc03d9.png" width=50% height=50%><br>
 <img src="https://user-images.githubusercontent.com/98131995/234779799-28a3a0ff-6781-4974-9c14-5e97d9e43e37.png" width=75% height=75%><br><br>
 
 ## Results:<br>
@@ -21,6 +20,7 @@ The code is included in this repo.<br><br>
 ### C1 - Plotting of robot in workspace:<br>
 
 <img src="https://user-images.githubusercontent.com/98131995/234783465-86a3dbc8-1ef5-400f-a573-81e345c03238.png" width=75% height=75%><br>
+<img src="https://user-images.githubusercontent.com/98131995/234784327-7424720e-ca91-4de8-874d-4e3c62bc03d9.png" width=50% height=50%><br>
 ![image](https://user-images.githubusercontent.com/98131995/234584486-8d230dbf-3554-4946-9809-2d75c457fedb.png)<br><br>
 
 ### C2 - Converting workspace into configuration space:<br>
