@@ -19,6 +19,7 @@ The code is included in this repo.<br><br>
 
 ### C1 - Plotting of robot in workspace:<br>
 
+<img src="https://user-images.githubusercontent.com/98131995/234783465-86a3dbc8-1ef5-400f-a573-81e345c03238.png" width=75% height=75%><br>
 ![image](https://user-images.githubusercontent.com/98131995/234584486-8d230dbf-3554-4946-9809-2d75c457fedb.png)<br><br>
 
 ### C2 - Converting workspace into configuration space:<br>
